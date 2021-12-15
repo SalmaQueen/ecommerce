@@ -14,7 +14,7 @@ export default class Footer extends Component {
                         <div class="footer-widget">
                             <h2>Get in Touch</h2>
                             <div class="contact-info">
-                                <p><i class="fa fa-map-marker"></i>18th street, No 4 mwish, section 3,Nairobi, Kenya</p>
+                                <p><i class="fa fa-map-marker"></i>18th street, No 4 mwisho, section 3,Nairobi, Kenya</p>
                                 <p><i class="fa fa-envelope"></i>youth.world@gmail.com</p>
                                 <p><i class="fa fa-phone"></i>+254795536280</p>
                             </div>
