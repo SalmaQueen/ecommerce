@@ -80,7 +80,7 @@ center {
   
   .slider-wrapper {
     position: relative;
-    height: 80vh;
+    height: 50vh;
     width: 100%;
     overflow: hidden;
     /* max-width: 800px; */
@@ -89,7 +89,7 @@ center {
   }
   
   .slide {
-    height: 80vh;
+    height: 50vh;
     background-size: cover !important;
   }
   
